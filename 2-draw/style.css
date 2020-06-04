@@ -1,0 +1,190 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: fantasy;
+}
+
+.top {
+    background-color: rgb(151, 8, 233);
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    font-weight: thin;
+    padding-top: 30px;
+    position: relative;
+    padding: 20px 20px;
+    
+   
+}
+
+
+
+.main{
+   
+    padding-bottom: 40px;
+    
+}
+
+.top h1{
+    padding-top: 20px;
+}
+
+
+.top p{
+    background-color: rgb(151, 8, 233);
+    font-family:'Architects Daughter', cursive ;
+    color: white;
+    font-weight: thin;
+    font-size:22px;
+    
+}
+
+#brand{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+nav{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav ul li{
+    padding: 0 15px;
+}
+
+nav a{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 0 10px;
+}
+nav a:hover{
+    color: rgb(245, 170, 235) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.dropdown-menu{
+    background-color:rgb(202, 200, 200);
+}
+
+.dropdown-menu a:hover{
+    background-color: rgb(202, 200, 200);
+    color: rgb(151, 8, 233);;
+}
+
+
+
+.icon-bar{
+    color: white;
+    width: 20px;
+    height: 20px;
+   
+}
+
+.open{
+    margin: 25px 20px;
+    padding: 15px;
+    border: 2px solid rgb(123, 0, 134);
+    box-shadow: 5px 5px 5px rgb(123, 0, 134);
+    height: 180px;
+    
+}
+
+.open,.open1 h3{
+    font-family: 'Architects Daughter', cursive ;
+    font-weight: lighter;
+
+}
+.open1 h4{
+    font-family: 'Architects Daughter', cursive ;
+    font-weight: lighter;
+}
+
+.open1 p{
+    font-family: 'Architects Daughter', cursive ;
+    font-weight: Bold;
+}
+
+.open1
+{
+    margin: 25px 20px;
+    padding: 15px;
+    border: 2px solid rgb(123, 0, 134);
+    box-shadow: 5px 5px 5px rgb(123, 0, 134);
+    
+}
+
+
+.open p{
+    font-family: 'Architects Daughter', cursive;
+   
+}
+
+.topic {
+    justify-content: center;
+    font-family:  'Architects Daughter', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 3px 3px 5px rgb(123, 0, 134) ;
+}
+
+.goals{
+margin: 50px 0;
+    
+}
+
+.goaloption h3{
+    font-family: 'Architects Daughter', cursive ;
+    font-weight: lighter;
+}
+
+.goaloption p{
+    font-family: 'Architects Daughter', cursive ;
+    font-weight: bold;
+}
+
+.goaloption{
+    margin: 40px 20px;
+    border: 2px solid grey;
+    box-shadow: 5px 5px 5px grey;
+    height: 350px;
+}
+
+
+
+.site{
+    font-family: 'Architects Daughter', cursive ;
+    text-align: center;
+}
+
+.icon{
+    font-size: 40px;
+    color: black;
+    padding: 0 20px;
+    align: center;
+    
+
+}
+
+.icon:hover{
+    color: grey;
+}
+.icon:focus{
+    text-shadow: 3px 3px 5px rgb(123, 0, 134) ;
+}
+
+.web{
+    margin: 60px;
+}
+
+.web h1,h2{
+    padding: 20px 0;
+}
